@@ -1,0 +1,14 @@
+ragas==0.3.9
+rapidfuzz
+sacrebleu
+rouge_score
+langchain
+langchain-groq
+langchain-huggingface
+langgraph
+sentence-transformers
+datasets
+pandas
+matplotlib
+streamlit
+python-dotenv
